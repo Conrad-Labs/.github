@@ -67,7 +67,7 @@ We'd love to hear from you! Whether you're interested in our services, career op
 - **Address**: 166 Hargraves Drive, Suite C-400-349, Austin, TX 78737, USA
 - **Address**: 20 C/A, Gulberg II, Lahore, Pakistan 54660
 
-Follow us on [LinkedIn](https://www.linkedin.com/company/conrad-labs/), [Facebook](https://www.facebook.com/conradlabs/), and [Twitter](https://twitter.com/conradlabs).
+Follow us on [LinkedIn](https://www.linkedin.com/company/conrad-labs/) and [Instagram](https://instagram.com/realconradlabs).
 
 ---
 
