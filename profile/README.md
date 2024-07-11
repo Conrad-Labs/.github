@@ -25,7 +25,7 @@ At Conrad Labs, our mission is to disrupt the ordinary. We aim to transform busi
 - **Security and SOC2**: Ensure your systems are secure and compliant with industry standards.
 - **Rearchitecture**: Redesign and optimize your existing systems for improved performance and scalability.
 
-### Projects by Conrad Labs
+## Projects by Conrad Labs
 
 ### [Transect](https://conradlabs.com/our-work/)
 Transect partnered with Conrad Labs to revolutionize land development due diligence by providing comprehensive land data and on-demand environmental reports. This collaboration helps developers make informed decisions, reducing risks and improving efficiency.
