@@ -45,7 +45,7 @@ Conrad Labs supported Ellipsas in building AI-driven solutions that streamline o
 ### [Yotascale](https://conradlabs.com/our-work/)
 In collaboration with Yotascale, Conrad Labs provided robust cloud management solutions, enabling efficient resource utilization and cost management.
 
-#### [ScaleFactor](https://conradlabs.com/our-work/)
+### [ScaleFactor](https://conradlabs.com/our-work/)
 Conrad Labs worked with ScaleFactor to develop financial operations tools that automate accounting processes and provide real-time financial insights.
 
 ### [Wisegate](https://conradlabs.com/our-work/)
