@@ -25,34 +25,35 @@ At Conrad Labs, our mission is to disrupt the ordinary. We aim to transform busi
 - **Security and SOC2**: Ensure your systems are secure and compliant with industry standards.
 - **Rearchitecture**: Redesign and optimize your existing systems for improved performance and scalability.
 
-# Projects by Conrad Labs
+### Projects by Conrad Labs
 
-## [Transect](https://conradlabs.com/our-work/)
+### [Transect](https://conradlabs.com/our-work/)
 Transect partnered with Conrad Labs to revolutionize land development due diligence by providing comprehensive land data and on-demand environmental reports. This collaboration helps developers make informed decisions, reducing risks and improving efficiency.
 
-## [Marcus Technologies](https://conradlabs.com/our-work/)
+### [Marcus Technologies](https://conradlabs.com/our-work/)
 Conrad Labs worked with Marcus Technologies to enhance real-time environmental due diligence, offering tools that streamline data analysis and reporting for better decision-making in land development.
 
-## [Quantified](https://conradlabs.com/our-work/)
+### [Quantified](https://conradlabs.com/our-work/)
 Conrad Labs collaborated with Quantified to deliver advanced data analytics solutions that transform raw data into actionable insights, empowering businesses to make data-driven decisions.
 
-## [Cialfo](https://conradlabs.com/our-work/)
+### [Cialfo](https://conradlabs.com/our-work/)
 The partnership with Cialfo focused on developing innovative edtech solutions to enhance the educational experience through technology-driven tools and platforms.
 
-## [Ellipsas](https://conradlabs.com/our-work/)
+### [Ellipsas](https://conradlabs.com/our-work/)
 Conrad Labs supported Ellipsas in building AI-driven solutions that streamline operations and improve data processing capabilities across various industries.
 
-## [Yotascale](https://conradlabs.com/our-work/)
+### [Yotascale](https://conradlabs.com/our-work/)
 In collaboration with Yotascale, Conrad Labs provided robust cloud management solutions, enabling efficient resource utilization and cost management.
 
-## [ScaleFactor](https://conradlabs.com/our-work/)
+#### [ScaleFactor](https://conradlabs.com/our-work/)
 Conrad Labs worked with ScaleFactor to develop financial operations tools that automate accounting processes and provide real-time financial insights.
 
-## [Wisegate](https://conradlabs.com/our-work/)
+### [Wisegate](https://conradlabs.com/our-work/)
 The collaboration with Wisegate involved creating a platform that facilitates secure and efficient knowledge sharing among professionals in various fields.
 
-## [Alif Care](https://conradlabs.com/our-work/)
+### [Alif Care](https://conradlabs.com/our-work/)
 Conrad Labs partnered with Alif Care to develop healthcare solutions that leverage AI and machine learning to improve patient care and streamline medical operations.
+
 ## Careers
 
 Join us at Conrad Labs! We value open communication, teamwork, and respect. Our environment fosters collaboration, innovation, and continuous learning. Explore new technologies, methodologies, and industry trends with us.
